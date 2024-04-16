@@ -1,3 +1,3 @@
 def main():
-    print("This is World")
+    print("This is Master")
 main()
