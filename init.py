@@ -1,3 +1,3 @@
 def main():
-    print("Fetch test")
+    print("Fetch 2test")
 main()
