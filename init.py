@@ -1,4 +1,4 @@
 def main():
-    print("This is Master 1")
+    print("This is Master 2")
 
 main()
