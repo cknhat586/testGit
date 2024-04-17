@@ -1,4 +1,4 @@
 def main():
     print("This is Master 2")
 main()
-print("newBranch")
+print("newBranch 2")
