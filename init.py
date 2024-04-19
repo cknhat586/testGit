@@ -1,3 +1,2 @@
-def main():
-    print("This is Master")
-main()
+print("This is Master")
+
